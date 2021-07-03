@@ -1,6 +1,7 @@
 Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.
 - I'm 19 y.o. 🧑🏻
-- I'm currently learning Python and Dart 📖
+- I'm currently learning Flutter 
+- Most used language Python and Dart 📖
 - I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel) 📱
 
 My telegram account [Robin Hood](https://t.me/ExcaliburZx)
