@@ -1,4 +1,4 @@
-<h1><center>Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.</center></h1>
+<h1>Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.</h1>
 <p>- I'm 19 y.o. 🧑🏻</p>
 <p>- I'm currently learning Flutter 📖</p>
 <p>- Most used language Python and Dart</p>
