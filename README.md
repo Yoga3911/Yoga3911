@@ -3,7 +3,7 @@ Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.
 - Most used language Python and Dart
 - I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel) 📱
 - I'm currently learning Flutter 📖
-- My first Flutter project [MyZoo](https://drive.google.com/file/d/1XOdCKjTP6E7pntZqjqNZho8X7EeeW5sG/view?usp=sharing)
+- My Flutter project [MyZoo](https://drive.google.com/file/d/1XOdCKjTP6E7pntZqjqNZho8X7EeeW5sG/view?usp=sharing) and [Pro-Tani](https://github.com/Yoga3911/pro_tani)
 
 My telegram account [Robin Hood](https://t.me/ExcaliburZx)
 
