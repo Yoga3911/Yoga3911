@@ -1,4 +1,5 @@
-Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.
+<h2>Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.<h2><br>
+
 - I'm 19 y.o. 🧑🏻
 - Most used language Python and Dart
 - I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel) 📱
