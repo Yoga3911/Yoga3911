@@ -7,7 +7,7 @@ Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.
 - My telegram account [Robin Hood](https://t.me/ExcaliburZx)
 
 Have learned:<br>
-<img src="https://img.shields.io/badge/Python%20-%FFEE33.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20-%FFEE33.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
