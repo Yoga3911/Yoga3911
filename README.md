@@ -26,3 +26,4 @@ Have learned:<br>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoga3911&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yoga3911&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
