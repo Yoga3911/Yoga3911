@@ -6,6 +6,9 @@ Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.
 - My Flutter project [MyZoo](https://github.com/Yoga3911/my_zoo) and [Pro-Tani](https://github.com/Yoga3911/pro_tani)
 - My telegram account [Robin Hood](https://t.me/ExcaliburZx)
 
+Operating System:<br>
+<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-E95420?style=for-the-badge&logo=manjaro&logoColor=white" />
+
 Have learned:<br>
 <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
