@@ -26,5 +26,3 @@ Have learned:<br>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoga3911&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoga3911&layout=compact&theme=radical&card_width=240)](https://github.com/anuraghazra/github-readme-stats)
-
