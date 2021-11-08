@@ -1,12 +1,11 @@
-<h2>Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.</h2>
-<li>
-  <ul>I'm 19 y.o. 🧑🏻</ul>
-  <ul>Most used language Python and Dart</ul>
-  <ul>I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel) 📱</ul>
-  <ul>I'm currently learning Flutter 📖</ul>
-  <ul>My Flutter project [MyZoo](https://github.com/Yoga3911/my_zoo) and [Pro-Tani](https://github.com/Yoga3911/pro_tani)</ul>
-  <ul>My telegram account [Robin Hood](https://t.me/ExcaliburZx)</ul>
-<li>
+Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.
+- I'm 19 y.o. 🧑🏻
+- Most used language Python and Dart
+- I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel) 📱
+- I'm currently learning Flutter 📖
+- My Flutter project [MyZoo](https://github.com/Yoga3911/my_zoo) and [Pro-Tani](https://github.com/Yoga3911/pro_tani)
+- My telegram account [Robin Hood](https://t.me/ExcaliburZx)
+    
 Operating System:<br>
 <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
