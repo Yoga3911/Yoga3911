@@ -1,4 +1,4 @@
-<h2>Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.<h2><br>
+<h2>Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.</h2><br>
 
 - I'm 19 y.o. 🧑🏻
 - Most used language Python and Dart
