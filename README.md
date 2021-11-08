@@ -7,7 +7,8 @@ Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.
 - My telegram account [Robin Hood](https://t.me/ExcaliburZx)
 
 Operating System:<br>
-<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-E95420?style=for-the-badge&logo=manjaro&logoColor=white" />
+<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white" />
+<img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 Have learned:<br>
 <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
