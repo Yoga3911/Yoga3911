@@ -1,4 +1,4 @@
-<h2>Hai i'm Liandri Eko Prayugo 👋, you can call me Yoga.</h2>
+<h2>Hai i'm Liandri Eko Prayugo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, you can call me Yoga.</h2>
 
 - I'm 19 y.o. 🧑🏻
 - Most used language Python and Dart
