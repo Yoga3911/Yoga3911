@@ -1,9 +1,8 @@
 <h2>Hai i'm Yoga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h2>
 
 - I'm 20 y.o.
-- Most used language Python and Dart
-- I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel)
 - I'm currently learning Flutter and Laravel
+- I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel)
 - My Flutter project [MyZoo](https://github.com/Yoga3911/my_zoo) and [Pro-Tani](https://github.com/Yoga3911/pro_tani)
 - My telegram account [Robin Hood](https://t.me/ExcaliburZx)
     
