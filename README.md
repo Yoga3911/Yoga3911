@@ -5,7 +5,10 @@
 - I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel)
 - My Flutter project [MyZoo](https://github.com/Yoga3911/my_zoo) and [Pro-Tani](https://github.com/Yoga3911/pro_tani)
 - My telegram account [Robin Hood](https://t.me/ExcaliburZx)
-    
+
+You can contact me at:<br>
+<a href="https://t.me/ExcaliburZx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
 Operating System:<br>
 <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
