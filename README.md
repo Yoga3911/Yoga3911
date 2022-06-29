@@ -1,4 +1,4 @@
-<h2>Hai i'm Yoga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></h2>
+<h2>Hai i'm Yoga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
 
 - I'm 20 y.o.
 - I'm currently learning Flutter and Go
