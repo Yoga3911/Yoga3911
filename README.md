@@ -3,8 +3,7 @@
 - I'm 20 y.o.
 - I'm currently learning Flutter and Go
 - I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel)
-- My Flutter project | [Sulai](https://github.com/Yoga3911/sulai)
-- Flutter Showcase | [Flutter TDD](https://github.com/Yoga3911/flutter_tdd)
+- Flutter Showcase - Unfinished | [Flutter TDD](https://github.com/Yoga3911/flutter_tdd)
 
 You can contact me at:<br>
 <a href="https://t.me/ExcaliburZx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
