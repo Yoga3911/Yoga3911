@@ -14,7 +14,6 @@ Operating System:<br>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 Hacktoberfest Badge Collection:
-- 2022
 [![@yoga3911's Holopin board](https://holopin.me/yoga3911)](https://holopin.io/@yoga3911)
 
 Have learned:<br>
