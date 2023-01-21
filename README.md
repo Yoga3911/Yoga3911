@@ -1,8 +1,8 @@
-<h2>Hai i'm Yoga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
+<h2>Hai i'm Yoga! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
 
 - I'm 21 y.o.
 - I'm currently learning Flutter and Go.
-- I'm a kernel developer for Xiaomi Redmi Note 7 | [Excalibur Kernel](https://t.me/Excalibur_Kernel_Z)
+- I'm a kernel developer for Xiaomi Redmi Note 7 (Retirement) | [Excalibur Kernel](https://t.me/Excalibur_Kernel_Z)
 - Flutter Showcase - Unfinished | [Flutter Clean Architecture & TDD](https://github.com/Yoga3911/flutter_tdd)
 
 You can contact me at:<br>
