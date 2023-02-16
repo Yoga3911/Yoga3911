@@ -2,7 +2,7 @@
 
 - I'm 21 y.o.
 - I'm currently learning Flutter and Go.
-- I'm a kernel developer for Xiaomi Redmi Note 7 (Retirement) | [Excalibur Kernel](https://t.me/Excalibur_Kernel_Z)
+- I'm a kernel developer for Xiaomi Redmi Note 7 - Retirement | [Excalibur Kernel](https://t.me/Excalibur_Kernel_Z)
 - Flutter Showcase - Unfinished | [Flutter Clean Architecture & TDD](https://github.com/Yoga3911/flutter_tdd)
 
 You can contact me at:<br>
