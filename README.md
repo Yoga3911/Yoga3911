@@ -13,6 +13,7 @@ You can contact me at:<br>
 Operating System:<br>
 <img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-3DDC84?style=for-the-badge&logo=manjaro&logoColor=white" />
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="Windows 10" src="https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge" />
 
 Have learned:<br>
 <img src="https://img.shields.io/badge/Python%20-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
